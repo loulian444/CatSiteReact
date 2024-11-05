@@ -1,0 +1,16 @@
+body {
+  margin: 0px;
+}
+
+#navbarSec {
+  background-color: aqua;
+  padding: 2% 0%;
+}
+
+#navbarSec > a {
+  margin: 0% 5%;
+}
+
+img {
+  max-width: 25%;
+}
